@@ -2,6 +2,13 @@
 
 # Changelog
 
+## [1.76.2](https://github.com/Zephyruso/zashboard/compare/v1.76.1...v1.76.2) (2025-04-01)
+
+
+### Bug Fixes
+
+* hidden group ([5b8b733](https://github.com/Zephyruso/zashboard/commit/5b8b7331ec9e6c7fcd56fb16a0a39a385aa51dee))
+
 ## [1.76.1](https://github.com/Zephyruso/zashboard/compare/v1.76.0...v1.76.1) (2025-03-30)
 
 
